@@ -1,0 +1,43 @@
+Added Component: Designator=C4(RAD0.1)
+Added Component: Designator=C5(RAD0.1)
+Added Component: Designator=C6(RAD0.1)
+Added Component: Designator=P3(3PINÅÅÕë)
+Added Component: Designator=P4(3PINÅÅÕë)
+Added Component: Designator=P5(2pinÕë)
+Added Component: Designator=R3(AXIAL0.4)
+Added Component: Designator=U2(8pin×ù)
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Net: Name=GND
+Added Net: Name=NetC2_1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R3-1
+Added Pin To Net: NetName=NetC4_1 Pin=U2-6
+Added Pin To Net: NetName=NetC4_1 Pin=U2-7
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=U2-5
+Added Net: Name=NetC5_1
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-2
+Added Pin To Net: NetName=NetP3_1 Pin=P3-3
+Added Pin To Net: NetName=NetP3_1 Pin=U2-3
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=P4-2
+Added Pin To Net: NetName=NetP4_1 Pin=P4-3
+Added Pin To Net: NetName=NetP4_1 Pin=U2-2
+Added Net: Name=NetP4_1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=P5-1
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=U2-4
+Added Pin To Net: NetName=VCC Pin=U2-8
+Added Net: Name=VCC
+Added Class: Name=NE555DWTZD
